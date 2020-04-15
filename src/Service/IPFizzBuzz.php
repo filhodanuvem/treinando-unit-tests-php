@@ -14,8 +14,6 @@ class IPFizzBuzz
         }
 
         $lastNumber = $parts[3];
-        
-
         $return = "";
         if ($lastNumber % 3 == 0) {
             $return .= "Fizz";
