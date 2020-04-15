@@ -4,11 +4,11 @@
 
 FizzBuzz é um jogo que você pode conhecer melhor [aqui](https://en.wikipedia.org/wiki/Fizz_buzz). Nós mudamos um pouco o jogo para funcionar com ips.  
 
-Imagine o ip A.B.C.D (127.0.0.1).
-Se D for multiplo de 3, o metodo getFizzBuzzByIP retorna "Fizz".
-Se D for multiplo de 5, o metodo getFizzBuzzByIP retorna "Buzz".
-Se D for multiplo de 3 e 5, o metodo getFizzBuzzByIP retorna "FizzBuzz".
-Caso nao seja multiplo de nenhum desses numeros, ele retorna o proprio "D".
+1. Imagine o ip A.B.C.D (127.0.0.1).
+2. Se D for multiplo de 3, o metodo getFizzBuzzByIP retorna "Fizz".
+3. Se D for multiplo de 5, o metodo getFizzBuzzByIP retorna "Buzz".
+4. Se D for multiplo de 3 e 5, o metodo getFizzBuzzByIP retorna "FizzBuzz".
+5. Caso nao seja multiplo de nenhum desses numeros, ele retorna o proprio "D".
 
 Cada caso do FizzBuzz deveria ser testado. 
 
