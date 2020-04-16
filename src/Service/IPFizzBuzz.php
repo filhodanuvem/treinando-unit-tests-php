@@ -2,14 +2,14 @@
 
 namespace App\Service;
 
-use App\Execption\InvalidIP4Format;
+use App\Exception\InvalidIP4Format;
 
 class IPFizzBuzz
 {
     public function getFizzBuzzByIP(string $ip): string
     {
         $parts = explode('.', $ip);
-        if (count($parts) !== 4) {
+        if (count($parts) !== 4 || !is_numeric($parts[3])) {
             throw new InvalidIP4Format;
         }
 
