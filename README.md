@@ -8,7 +8,7 @@ entender como a aplicação funciona.
 
 ```bash
 ./composer.phar install
-./vendor/bin/phpunit
+./vendor/bin/phpunit --colors tests
 ```
 
 ## Objetivo
