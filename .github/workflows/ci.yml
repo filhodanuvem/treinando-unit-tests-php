@@ -16,5 +16,5 @@ jobs:
       run: docker build . -t app
     - name: Run PHP unit tests
       run:  docker run app vendor/bin/phpunit --whitelist ./src/Service --coverage-text ./tests
-    - name: Run PHP unit tests
-      run: docker run -it app php ./getIp.php
+    - name: Run application
+      run: docker run app php ./getIp.php
