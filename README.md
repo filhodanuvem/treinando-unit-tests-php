@@ -18,3 +18,9 @@ Cada teste cobre partes das suas classes `App\Service`, o objetivo seria chegar 
 
 ![](./coverage.png)
 
+Se você quiser rodar o projeto e ver cobertura na sua maquina local, o modo mais fácil é via docker. 
+
+```
+docker build . -t app 
+docker run app vendor/bin/phpunit --whitelist ./src/Service --coverage-text --colors ./tests
+```
