@@ -19,6 +19,7 @@ $locationFinder = new LocationFinder($guzzle);
 $location = $locationFinder->findLocation($ip);
 
 // Brinca com o ip de fizzbuzz. 
+// Send o IP do formato A.B.C.D 
 // Se D for multiplo de 3, o metodo getFizzBuzzByIP retorna "Fizz".
 // Se D for multiplo de 5, o metodo getFizzBuzzByIP retorna "Buzz".
 // Se D for multiplo de 3 e 5, o metodo getFizzBuzzByIP retorna "FizzBuzz".
