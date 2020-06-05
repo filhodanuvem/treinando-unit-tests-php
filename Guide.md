@@ -9,6 +9,7 @@ FizzBuzz é um jogo que você pode conhecer melhor [aqui](https://en.wikipedia.o
 3. Se D for multiplo de 5, o metodo getFizzBuzzByIP retorna "Buzz".
 4. Se D for multiplo de 3 e 5, o metodo getFizzBuzzByIP retorna "FizzBuzz".
 5. Caso nao seja multiplo de nenhum desses numeros, ele retorna o proprio "D".
+6. Caso o valor fornecido seja fora das regras listadas acima o teste deve garantir o retorno de uma Exception.
 
 Cada caso do FizzBuzz deveria ser testado. 
 
