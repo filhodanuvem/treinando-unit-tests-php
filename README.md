@@ -17,7 +17,8 @@ Faça um fork 😉.
 Seu objetivo é criar testes para todas as classes `App\Service`. Siga o documento [Guide.md](Guide.md) para saber a melhor ordem de estudo.
 Cada teste cobre partes das suas classes `App\Service`, o objetivo seria chegar a 100% de cobertura para fins de estudo. Você pode acompanhar sua porcentagem de cobertura através da pagina do [github actions](https://github.com/cloudson/treinando-unit-tests-php/actions).
 
-![](./coverage.png)
+![](./full_coverage.png)
+Curtiu o desafio? Quer deixar algum feedback para melhorar o repo ou trocar ideia? Abra uma issue e conversamos por la :smile: 
 
 Se você quiser rodar o projeto e ver cobertura na sua maquina local, o modo mais fácil é via docker. 
 
