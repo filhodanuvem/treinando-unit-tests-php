@@ -6,7 +6,7 @@ entender como a aplicação funciona.
 
 Além disso, o repositório serve como um exercício para uma série de vídeos que eu produzi para a Youtube sobre testes automatizados. 
 Você pode ver o primeiro vídeo sobre testes unitários com PHPUnit [aqui](https://www.youtube.com/watch?v=G8SNRbZSRNw&list=PLzehOqhpwpxjs8bfI72dR-wV-7ZGxfuTN&index=4). 
-_
+
 ## Como instalar e rodar tests
 
 ```bash
