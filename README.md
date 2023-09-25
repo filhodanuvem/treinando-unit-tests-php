@@ -31,3 +31,10 @@ docker run app vendor/bin/phpunit --whitelist ./src/Service --coverage-text --co
 ## Respostas 
 
 Eu extremamente recomendo a você não olhar as respostas. São apenas três classes para cobrir de testes, e eu sei que você consegue 😉. Quando você olha as respostas e se baseia nelas para estudar, você tem uma falsa sensação de evolução. Se você terminou e quer checar mesmo assim, basta ir [até a branch respostas](https://github.com/cloudson/treinando-unit-tests-php/tree/respostas). 
+
+## E Depois? 
+Se divertiu? Que tal estudar com outros tipos de desafios com solução em vídeo? Acesse [devgym.com.br](https://app.devgym.com.br?utm_campaign=rinhaback&utm_medium=social&utm_source=github). 
+
+[![](https://raw.githubusercontent.com/devgymbr/files/main/devgymblack.png)](https://app.devgym.com.br?utm_campaign=rinhaback&utm_medium=social&utm_source=github)
+
+
